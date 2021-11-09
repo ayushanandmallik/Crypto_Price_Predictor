@@ -4,6 +4,7 @@ pandas == 1.2.4
 matplotlib == 3.3.4
 datetime
 cryptocmd == 0.6.0
+pystan == 2.19.1.1
 fbprophet == 0.7.1
 plotly == 5.3.1
 requests == 2.26.0
