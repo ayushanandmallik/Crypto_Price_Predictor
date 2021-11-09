@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+matplotlib
+datetime
+cryptocmd
+fbprophet
+plotly
+requests
+json
+pprint
+pyrebase
